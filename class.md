@@ -1,4 +1,4 @@
-Kristian	
-Germany	
+Davi Luquini
+Brazil	
 Meta Front-End course
 
